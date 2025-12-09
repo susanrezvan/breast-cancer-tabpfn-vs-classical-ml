@@ -131,7 +131,8 @@ Install using pip:
 pip install pandas numpy scikit-learn seaborn matplotlib tabpfn
 ----
 Open the Notebook:
-Jupyter Notebook
+Google colab
+note:All notebooks were originally created in Google Colab, but they follow the standard Jupyter Notebook format.
 ---
 Clone the Repository: 
 git clone https://github.com/susanrezvan/breast-cancer-tabpfn-vs-classical-ml.git
