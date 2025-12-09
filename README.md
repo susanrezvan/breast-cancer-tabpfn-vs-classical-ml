@@ -1,2 +1,1 @@
-# breast-cancer-tabpfn-vs-classical-ml
-Comparison of classical machine learning classifiers with the TabPFN foundation model for breast cancer diagnosis
+## Classical Machine Learning vs TabPFN Foundation Model This project compares the performance of traditional machine learning algorithms (**KNN**, **SVM**, **Random Forest**) with a modern **TabPFN foundation model** for breast cancer diagnosis using the *Breast Cancer Wisconsin Diagnostic* dataset.
