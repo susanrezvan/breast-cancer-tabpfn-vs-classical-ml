@@ -102,6 +102,56 @@ Recall is especially important for medical diagnosis (minimizing false negatives
 | **TabPFN** | **98.25%** | Best overall performance |
 
 ---
+---
+
+## 📸 Results & Visualizations
+
+### 🔹 Pairplot (Feature Relationships)
+![Pairplot](results/pairplot.png)
+
+---
+
+### 🔹 Correlation Heatmap
+![Correlation Heatmap](results/corrolation.png)
+
+---
+
+## 🧠 KNN Results
+
+### 🔸 KNN – Euclidean Distance
+![KNN Euclidean](results/KNN-eu.png)
+
+### 🔸 KNN – Cosine Distance
+![KNN Cosine](results/KNN-cos.png)
+
+### 🔸 KNN – MI + Cosine
+![KNN MI + Cosine](results/KNN-mi-cos.png)
+
+### 🔸 KNN – MI + Euclidean
+![KNN MI + Euclidean](results/KNN-mi-eu.png)
+
+---
+
+## 🧠 SVM Results
+
+### 🔸 SVM – Default Kernel (RBF)
+![SVM RBF](results/svm.png)
+
+### 🔸 SVM – MI + RBF
+![SVM MI](results/svm-mi.png)
+
+---
+
+## 🌲 Random Forest
+![Random Forest](results/ran.png)
+
+---
+
+## 🤖 TabPFN (Best Model)
+![TabPFN](results/Tab.png)
+
+---
+
 
 ## 📘 Dataset
 
